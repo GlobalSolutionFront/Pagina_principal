@@ -11,11 +11,11 @@ O objetivo do Skyrelief é permitir que usuários possam relatar ocorrências, t
 ## 📁 Estrutura de Pastas e Arquivos
 
 Pagina_principal-main/
--├── index.html
--├── css/
--│ ├── chatbot.css
--│ ├── index.css
--│ └── integrantes.css
+├── index.html
+├── css/
+│ ├── chatbot.css
+│ ├── index.css
+│ └── integrantes.css
 ├── js/
 │ ├── cadastro.js
 │ ├── contato.js
